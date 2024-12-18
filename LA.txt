@@ -1,0 +1,21 @@
+(a)
+a1=[[-4, -2], [3, 1]]
+a2=[[3, 8.283185307179586, -4], [4, -0.6020599913279623, -3]]
+a3=[[2, 3], [-2, -5]]
+(b)※答案為true時，答案相同，答案為false時，答案相異
+false
+(c)※答案為true時，答案相同，答案為false時，答案相異
+true
+(d)※答案為error-The inverse matrix does not exist時，代表反矩陣不存在
+A=[[1.25, -0.5], [0.75, -0.5]]
+F=error-The inverse matrix does not exist(det==0)
+(e)※答案為true時，符合條件，答案為false時，不符合條件
+A=false
+B=true
+F=false
+I=true
+(f)※答案為true時，符合條件，答案為false時，不符合條件
+A=false
+B=true
+F=false
+I=true
